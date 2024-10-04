@@ -153,7 +153,8 @@ export PATH="/usr/local/share/dotnet:$PATH"
 export DOTNET_ROOT="/usr/local/share/dotnet"
 export PATH="$(which unrar | xargs dirname):$PATH"
 export KUBECONFIG=$HOME/.kube/mri-stg-config
-
+export EDITOR='nvim'
+export VISUAL='nvim'
 # Set personal aliases, overriding those provided by oh-my-zsh libs,
 # plugins, and themes. Aliases can be placed here, though oh-my-zsh
 # users are encouraged to define aliases within the ZSH_CUSTOM folder.
