@@ -5,3 +5,5 @@
 !.gitignore
 !.zshrc
 !.tmux.conf
+!.config/hypr
+!.config/waybar
